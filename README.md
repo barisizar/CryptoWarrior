@@ -9,7 +9,7 @@ Players control their warrior using mouse movements, dodging increasingly diffic
 ## Screenshots 📸
 
 ### Main Page
-<img src="/assets/MainPage.png" alt="Main Page" />
+<img src="/assets/MainScreen.png" alt="Main Page" />
 
 The game's landing page features a clean interface with the game board, leaderboard, and wallet connection options. Players can easily access all game features and track their progress from this central hub.
 
