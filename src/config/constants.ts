@@ -1,0 +1,2 @@
+export const TESTNET_RPC_URL = 'http://127.0.0.1:7545';
+export const CONTRACT_ADDRESS = '0x7Ac6FF20C1f7Ef79731Abe4bc73cf2A7d2439c49';
