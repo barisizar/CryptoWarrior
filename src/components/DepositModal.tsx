@@ -22,9 +22,7 @@ const handleDeposit = async () => {
       
       if (success) {
         // Check player's balance after deposit
-        console.log("HERE")
         const newBalance = await getPlayerBalance();
-        console.log('New player balance:', newBalance);
         await new Promise(resolve => setTimeout(resolve, 1000));
         onClose();
       }
